@@ -1,0 +1,16 @@
+/*
+========================================================================
+ Name        : NFlashTorch.loc
+ Author      : 
+ Copyright   : Your copyright notice
+ Description : 
+========================================================================
+*/
+
+#ifdef LANGUAGE_01
+#include "NFlashTorch.l01"
+#endif
+
+#ifdef LANGUAGE_05
+#include "NFlashTorch.l05"
+#endif

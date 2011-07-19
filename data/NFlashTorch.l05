@@ -1,0 +1,18 @@
+/*
+========================================================================
+ Name        : NFlashTorch.l05
+ Author      : 
+ Copyright   : Your copyright notice
+ Description : 
+========================================================================
+*/
+// localized strings for language: Italian (05)
+#define STR_NFlashTorchApplication_1 "Opzioni"
+#define STR_NFlashTorchApplication_2 "Seleziona"
+#define STR_NFlashTorchApplication_3 "Esci"
+#define STR_NFlashTorchApplication_4 "NFlashTorch"
+#define STR_NFlashTorchApplication_5 "NFlashTorch"
+#define STR_NFlashTorchApplication_Turn_Off "Spegni"
+#define STR_NFlashTorchApplication_Turn_On "Accendi"
+#define STR_NFlashTorchApplication_Select_Turn_On "Accendi"
+#define STR_NFlashTorchApplication_Select_Turn_Off "Spegni"

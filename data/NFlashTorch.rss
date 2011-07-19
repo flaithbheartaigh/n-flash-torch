@@ -1,0 +1,97 @@
+/*
+========================================================================
+ Name        : NFlashTorch.rss
+ Author      : 
+ Copyright   : Your copyright notice
+ Description : 
+========================================================================
+*/
+NAME NFLA
+
+#include <avkon.rsg>
+#include <avkon.rh>
+#include <eikon.rh>
+#include <appinfo.rh>
+#include "NFlashTorch.hrh"
+#include "NFlashTorch.loc"
+
+RESOURCE RSS_SIGNATURE
+	{
+	}
+RESOURCE TBUF
+	{
+	buf = "NFlashTorch";
+	}
+RESOURCE EIK_APP_INFO r_application_nflash_torch_app_ui
+	{
+	cba = r_application_control_pane;
+	status_pane = r_application_status_pane;
+	menubar = r_application_main_menu;
+	}
+RESOURCE STATUS_PANE_APP_MODEL r_application_status_pane
+	{
+	}
+RESOURCE LOCALISABLE_APP_INFO r_localisable_app_info
+	{
+	short_caption = STR_NFlashTorchApplication_5;
+	caption_and_icon = CAPTION_AND_ICON_INFO
+		{
+		caption = STR_NFlashTorchApplication_4;
+		number_of_icons = 0;
+		};
+	}
+
+RESOURCE MENU_BAR r_application_main_menu
+	{
+	titles =
+		{
+		MENU_TITLE
+			{
+			menu_pane = r_application_options_menu_pane_menu_pane;
+			}
+		};
+	}
+RESOURCE MENU_PANE r_application_options_menu_pane_menu_pane
+	{
+	items =
+		{
+		MENU_ITEM
+			{
+			command = ENFlashTorchApplicationTurn_OffMenuItemCommand;
+			txt = STR_NFlashTorchApplication_Turn_Off;
+			},
+		MENU_ITEM
+			{
+			command = ENFlashTorchApplicationTurn_OnMenuItemCommand;
+			txt = STR_NFlashTorchApplication_Turn_On;
+			}				
+		};
+	}
+
+RESOURCE CBA r_application_control_pane
+	{
+	buttons =
+		{
+		CBA_BUTTON
+			{
+			id = EAknSoftkeyOptions;
+			txt = STR_NFlashTorchApplication_1;
+			},
+		CBA_BUTTON
+			{
+			id = EAknSoftkeyExit;
+			txt = STR_NFlashTorchApplication_3;
+			},
+		CBA_BUTTON
+			{
+			id = EAknSoftkeySelect;
+			txt = STR_NFlashTorchApplication_2;
+			}
+		};
+	}
+
+RESOURCE TBUF r_application_select_turn_on { buf=STR_NFlashTorchApplication_Select_Turn_On; }
+RESOURCE TBUF r_application_select_turn_off { buf=STR_NFlashTorchApplication_Select_Turn_Off; }
+
+
+

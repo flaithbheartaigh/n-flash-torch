@@ -1,0 +1,13 @@
+/*
+========================================================================
+ Name        : NFlashTorch.hrh
+ Author      : 
+ Copyright   : Your copyright notice
+ Description : 
+========================================================================
+*/
+enum TNFlashTorchApplicationCommands
+	{
+	ENFlashTorchApplicationTurn_OffMenuItemCommand = 0x6000,
+	ENFlashTorchApplicationTurn_OnMenuItemCommand
+	};
