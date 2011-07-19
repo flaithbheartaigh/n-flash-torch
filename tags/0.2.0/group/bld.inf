@@ -1,0 +1,26 @@
+
+PRJ_PLATFORMS
+WINSCW ARMV5 GCCE
+
+
+#ifdef SBSV2
+
+PRJ_EXTENSIONS
+	
+	START EXTENSION s60/mifconv
+	OPTION TARGETFILE nflashtorch_0xE4D0D3C7.mif
+	OPTION HEADERFILE nflashtorch_0xE4D0D3C7.mbg
+	OPTION SOURCEDIR ../gfx
+	OPTION SOURCES -c32 qgn_menu_NFlashTorch
+	END
+
+#else
+
+PRJ_MMPFILES
+
+	gnumakefile icons_aif_scalable_dc.mk
+
+#endif
+
+PRJ_MMPFILES
+NFlashTorch.mmp

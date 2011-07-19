@@ -1,0 +1,20 @@
+/*
+========================================================================
+ Name        : NFlashTorch.l01
+ Author      : 
+ Copyright   : Your copyright notice
+ Description : 
+========================================================================
+*/
+// localized strings for language: UK English (01)
+#define STR_NFlashTorchApplication_1 "Options"
+#define STR_NFlashTorchApplication_2 "Select"
+#define STR_NFlashTorchApplication_3 "Exit"
+#define STR_NFlashTorchApplication_4 "NFlashTorch"
+#define STR_NFlashTorchApplication_5 "NFlashTorch"
+#define STR_NFlashTorchApplication_Turn_Off "Turn Off"
+#define STR_NFlashTorchApplication_Turn_On "Turn On"
+#define STR_NFlashTorchApplication_Select_Turn_On "Turn On"
+#define STR_NFlashTorchApplication_Select_Turn_Off "Turn Off"
+
+
