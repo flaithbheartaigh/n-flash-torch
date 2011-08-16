@@ -31,7 +31,7 @@
 "$(EPOCROOT)Epoc32\data\z\resource\apps\NFlashTorch.r05"		-"!:\resource\apps\NFlashTorch.r05"
 "$(EPOCROOT)Epoc32\data\z\private\10003a3f\apps\NFlashTorch_reg.r01"	-"!:\private\10003a3f\import\apps\NFlashTorch_reg.r01"
 "$(EPOCROOT)Epoc32\data\z\private\10003a3f\apps\NFlashTorch_reg.r05"	-"!:\private\10003a3f\import\apps\NFlashTorch_reg.r05"
-"$(EPOCROOT)epoc32\data\z\resource\apps\NFlashTorch_aif.mif" -"!:\resource\apps\NFlashTorch_aif.mif"
+"$(EPOCROOT)epoc32\data\z\resource\apps\NFlashTorch.mif" -"!:\resource\apps\NFlashTorch.mif"
 "$(EPOCROOT)epoc32\data\z\resource\apps\NFlashTorch.mbm" -"!:\resource\apps\NFlashTorch.mbm"
 ; Add any installation notes if applicable
 ;"NFlashTorch.txt"					  -"!:\private\0xE4D0D3C7\NFlashTorch.txt"

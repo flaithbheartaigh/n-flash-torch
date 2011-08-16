@@ -19,9 +19,9 @@ endif
 # ----------------------------------------------------------------------------
 
 TARGETDIR=$(ZDIR)\resource\apps
-ICONTARGETFILENAME=$(TARGETDIR)\NFlashTorch_aif.mif
+ICONTARGETFILENAME=$(TARGETDIR)\NFlashTorch.mif
 HEADERDIR=$(EPOCROOT)epoc32\include
-HEADERFILENAME=$(HEADERDIR)\NFlashTorch_aif.mbg
+HEADERFILENAME=$(HEADERDIR)\NFlashTorch.mbg
 
 ICONDIR=..\gfx
 
