@@ -12,7 +12,7 @@
 &EN
 
 ; standard SIS file header
-#{"NFlashTorch"},(0xE4D0D3C7),0,2,0
+#{"NFlashTorch"},(0xE4D0D3C7),0,2,1
 
 ;Localised Vendor name
 %{"Vendor-EN"}
