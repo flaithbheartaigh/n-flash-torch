@@ -1,56 +1,35 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1 Tiny//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11-tiny.dtd">
-<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="0 0 88 87.999">
-<g>
-<g>
-<g>
-<g>
-<rect fill="none" width="88" height="87.999"/>
-</g>
-</g>
-<g>
-<linearGradient id="XMLID_7_" gradientUnits="userSpaceOnUse" x1="12.3042" y1="18.3799" x2="63.4113" y2="79.287">
-<stop offset="0" style="stop-color:#B3DDFF"/>
-<stop offset="0.8146" style="stop-color:#084296"/>
-<stop offset="1" style="stop-color:#084296"/>
-</linearGradient>
-<path fill="url(#XMLID_7_)" d="M32.135,7.415L14.363,17.432v23.167c0,0,8.926,15.351,10.468,18.001       c-2.386,1.704-15.44,11.03-15.44,11.03l21.613,12.652c0,0,12.907-9.85,14.71-11.226c1.979,1.109,16.231,9.101,16.231,9.101       l16.664-15.132c0,0-14.066-6.929-16.888-8.318c1.467-3.01,10.531-21.604,10.531-21.604l-22.298-9.59       c0,0-1.486,3.173-2.093,4.467c-2.046-0.88-6.573-2.826-6.573-2.826s-3.713,2.463-5.696,3.778       c-0.327-0.744-0.542-1.233-0.657-1.495c0.007-0.824,0.213-23.72,0.213-23.72L32.135,7.415z"/>
-<linearGradient id="XMLID_8_" gradientUnits="userSpaceOnUse" x1="40.8276" y1="52.1914" x2="16.1997" y2="21.1353">
-<stop offset="0" style="stop-color:#5AA7E0"/>
-<stop offset="1" style="stop-color:#3366CC"/>
-</linearGradient>
-<polygon fill="url(#XMLID_8_)" points="59.051,57.621 69.536,36.111 50.944,28.115 48.852,32.581 41.493,29.418 34.719,33.911        32.932,29.849 33.117,9.157 16.363,18.601 16.363,40.06 27.476,59.169 13.064,69.463 30.856,79.879 45.546,68.669        61.667,77.708 75.089,65.521 "/>
-<linearGradient id="XMLID_9_" gradientUnits="userSpaceOnUse" x1="60.585" y1="31.876" x2="53.8582" y2="45.1125">
-<stop offset="0" style="stop-color:#5AA7E0"/>
-<stop offset="1" style="stop-color:#3366CC"/>
-</linearGradient>
-<polygon fill="url(#XMLID_9_)" points="41.26,48.783 50.944,28.115 69.536,36.111 59.051,57.621 "/>
-<polygon fill="#0046B7" points="16.363,40.06 27.476,59.169 41.26,48.783 32.932,29.849 "/>
-<polygon fill="#3366CC" points="16.363,40.06 16.363,18.601 33.117,9.157 32.932,29.849 "/>
-<polygon fill="#CFECFF" points="26.696,39.23 41.493,29.418 59.523,37.168 45.546,47.954 "/>
-<path fill="#5AA7E0" d="M41.954,55.286"/>
-<polygon fill="#3366CC" points="26.696,39.23 27.476,59.169 45.546,68.669 45.546,47.954 "/>
-<polygon fill="#5AA7E0" points="13.064,69.463 27.476,59.169 45.546,68.669 30.856,79.879 "/>
-<linearGradient id="XMLID_10_" gradientUnits="userSpaceOnUse" x1="29.2085" y1="63.6836" x2="48.7102" y2="56.1976">
-<stop offset="0" style="stop-color:#5AA7E0"/>
-<stop offset="0.0056" style="stop-color:#5AA7E0"/>
-<stop offset="0.85" style="stop-color:#3366CC"/>
-<stop offset="1" style="stop-color:#3366CC"/>
-</linearGradient>
-<polygon fill="url(#XMLID_10_)" points="43.423,46.971 27.476,59.169 45.546,68.669 45.546,47.954 "/>
-<polygon fill="#0046B7" points="45.546,47.954 45.546,68.669 59.051,57.621 59.523,37.168 "/>
-<linearGradient id="XMLID_11_" gradientUnits="userSpaceOnUse" x1="45.3936" y1="59.5186" x2="59.0508" y2="59.5186">
-<stop offset="0" style="stop-color:#0046B7"/>
-<stop offset="1" style="stop-color:#3366CC"/>
-</linearGradient>
-<polygon fill="url(#XMLID_11_)" points="45.394,50.368 45.546,68.669 59.051,57.621 "/>
-<linearGradient id="XMLID_12_" gradientUnits="userSpaceOnUse" x1="60.8945" y1="68.6807" x2="57.2953" y2="58.792">
-<stop offset="0" style="stop-color:#5AA7E0"/>
-<stop offset="0.4101" style="stop-color:#5AA7E0"/>
-<stop offset="1" style="stop-color:#3366CC"/>
-</linearGradient>
-<polygon fill="url(#XMLID_12_)" points="61.667,77.708 45.546,68.669 59.051,57.621 75.089,65.521 "/>
-</g>
-</g>
-</g>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 14.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 43363)  -->
+<svg version="1.2" baseProfile="tiny"
+	 id="svg3069" inkscape:version="0.48.0 r9654" sodipodi:docname="torcia.svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="560px" height="560px"
+	 viewBox="-30 -30 560 560" xml:space="preserve">
+<sodipodi:namedview  id="namedview3147" inkscape:current-layer="svg3069" inkscape:window-y="-8" inkscape:window-x="-8" inkscape:window-height="716" inkscape:window-width="1366" inkscape:pageshadow="2" inkscape:pageopacity="0" pagecolor="#ffffff" inkscape:cy="68.618873" inkscape:cx="-13.679254" inkscape:zoom="2.3383001" objecttolerance="10" borderopacity="1" showgrid="false" gridtolerance="10" guidetolerance="10" bordercolor="#666666" inkscape:window-maximized="1">
+	</sodipodi:namedview>
+<path id="path3112-6" inkscape:connector-curvature="0" fill="#5AA7E0" d="M177.063,166.95"/>
+<path id="path3335-1" sodipodi:nodetypes="ccssccssc" inkscape:connector-curvature="0" fill="#5D1D0C" stroke="#999999" d="
+	M35.907,362.239l66.286,76.381c0,0,169.476-144.773,197.638-167.744c25.689-20.951,63.33,10.256,95.645-17.375
+	c30.512-26.088,69.48-58.242,69.48-58.242L339.626,44.171c0,0-55.469,44.964-76.111,63.144c-19.737,17.382-1.623,65.533-20.7,81.603
+	C206.987,219.098,35.907,362.239,35.907,362.239L35.907,362.239z"/>
+<path id="path4123-0" sodipodi:ry="14.059359" sodipodi:rx="2.2986784" sodipodi:cy="41.009735" sodipodi:cx="70.938286" sodipodi:type="arc" fill="#FAF39D" stroke="#231F20" stroke-width="4" d="
+	M415.37,108.697c34.791,41.3,57.52,79.392,50.768,85.081c-6.752,5.688-40.43-23.182-75.221-64.481l0,0
+	c-34.789-41.3-57.518-79.391-50.766-85.079C346.904,38.528,380.581,67.397,415.37,108.697z"/>
+<path id="path4125-9" sodipodi:ry="7.2702389" sodipodi:rx="1.0156951" sodipodi:cy="40.902821" sodipodi:cx="8.5532217" sodipodi:type="arc" fill="#999999" stroke="#999999" stroke-width="0.3" d="
+	M83.395,388.29c18.006,21.375,25.942,44.313,17.728,51.231c-8.215,6.923-29.473-4.797-47.479-26.172l0,0
+	c-18.006-21.375-25.942-44.313-17.728-51.231C44.132,355.196,65.388,366.915,83.395,388.29z"/>
+<path id="path4125-2-1" sodipodi:ry="7.2702389" sodipodi:rx="1.0156951" sodipodi:cy="40.902821" sodipodi:cx="8.5532217" sodipodi:type="arc" fill="#FF0000" d="
+	M116.417,360.405c17.935,21.289,29.008,41.469,24.734,45.067c-4.273,3.601-22.277-10.742-40.211-32.03l0,0
+	c-17.934-21.289-29.007-41.468-24.733-45.066C80.48,324.774,98.484,339.116,116.417,360.405z"/>
+<path id="path4125-2-6-7" sodipodi:ry="7.2702389" sodipodi:rx="1.0156951" sodipodi:cy="40.902821" sodipodi:cx="8.5532217" sodipodi:type="arc" fill="#5D1D0C" d="
+	M121.249,356.192c17.936,21.288,29.008,41.467,24.734,45.065c-4.274,3.599-22.277-10.74-40.211-32.029l0,0
+	c-17.935-21.291-29.007-41.467-24.734-45.065C85.312,320.563,103.316,334.901,121.249,356.192z"/>
+<path id="path4125-2-60-1" sodipodi:ry="7.2702389" sodipodi:rx="1.0156951" sodipodi:cy="40.902821" sodipodi:cx="8.5532217" sodipodi:type="arc" fill="#FF0000" d="
+	M126.2,351.968c17.933,21.289,29.007,41.467,24.733,45.066c-4.274,3.599-22.277-10.74-40.211-32.029l0,0
+	c-17.936-21.289-29.009-41.467-24.734-45.066C90.262,316.337,108.265,330.677,126.2,351.968z"/>
+<path id="path4125-2-6-1-4" sodipodi:ry="7.2702389" sodipodi:rx="1.0156951" sodipodi:cy="40.902821" sodipodi:cx="8.5532217" sodipodi:type="arc" fill="#5D1D0C" d="
+	M131.603,347.616c17.934,21.289,29.007,41.467,24.732,45.065c-4.272,3.603-22.275-10.737-40.21-32.028l0,0
+	c-17.934-21.289-29.008-41.468-24.733-45.066C95.666,311.987,113.669,326.325,131.603,347.616z"/>
+<path id="path4125-9-6" sodipodi:ry="7.2702389" sodipodi:rx="1.0156951" sodipodi:cy="40.902821" sodipodi:cx="8.5532217" sodipodi:type="arc" fill="#5D1D0C" d="
+	M88.181,384.888c17.745,21.066,24.658,44.437,15.44,52.201c-9.216,7.764-31.073-3.02-48.817-24.084l0,0
+	c-17.743-21.063-24.655-44.434-15.439-52.197C48.582,353.044,70.438,363.825,88.181,384.888z"/>
 </svg>
