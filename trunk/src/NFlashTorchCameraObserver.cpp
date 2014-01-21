@@ -97,7 +97,10 @@ void CNFlashTorchCameraObserver::VideoBufferReady(MCameraBuffer &b, TInt _int) {
 }
 
 void CNFlashTorchCameraObserver::End() {
-    camera->PowerOff();
+	TRAP_IGNORE( camera->SetFlashL(CCamera::EFlashNone) );
+	camera->StopVideoCapture();
+	TRAP_IGNORE( camera->SetFlashL(CCamera::EFlashNone) );
+	camera->PowerOff();
     camera->Release();
     observing = false;
 }

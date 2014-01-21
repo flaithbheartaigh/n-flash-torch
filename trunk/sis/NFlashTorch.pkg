@@ -12,7 +12,7 @@
 &EN
 
 ; standard SIS file header
-#{"NFlashTorch"},(0xE4D0D3C7),0,2,1
+#{"NFlashTorch"},(0xE4D0D3C7),0,2,2
 
 ;Localised Vendor name
 %{"Vendor-EN"}
@@ -20,6 +20,9 @@
 ;Unique Vendor name
 :"Vendor"
 
+;[0x101F7961] S60 3rd Edition
+;[0x102032BE] S60 3rd Edition, FP1
+;[0x102752AE] S60 3rd Edition, FP2
 ;Supports Series 60 v 3.0
 [0x101F7961], 0, 0, 0, {"Series60ProductID"}
 
