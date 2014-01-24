@@ -1,15 +1,10 @@
-#summary One-sentence summary of this page.
-
+#labels Featured
 = Introduction =
 
-Add your content here.
-Prova
+Nokia discontinued the symbian signed program so it is impossible to sign new application.
 
-[http://www.google.it provalink]
+NFlashTorch can be installer afted applying the Norton Hack to bypass the certicate verification.
 
-= Details =
+The latest version in the 0.2.2 version. It should be installed unsigned after the hack. It can be downloaded from the dist folder:
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+[http://n-flash-torch.googlecode.com/svn/trunk/dist/NFlashTorch-0.2.2.sis http://n-flash-torch.googlecode.com/svn/trunk/dist/NFlashTorch-0.2.2.sis]
